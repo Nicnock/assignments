@@ -1,0 +1,35 @@
+header {
+    height: 101px;
+    background: blue;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.green {
+    background: green;
+    width: 25%;
+    height: calc(100vh - 202px);
+}
+.orange {
+    background: orange;
+    width: 50%;
+    height: calc(100vh - 202px);
+}
+.yellow {
+    background: yellow;
+    width: 25%;
+    height: calc(100vh - 202px);
+}
+footer {
+    height: 101px;
+    background: red;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.parent {
+    display: flex;
+    
+}
