@@ -1,0 +1,28 @@
+footer {
+    background-color: grey;
+    color: orange;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+  
+}
+header {
+    background-color: grey;
+    color: orange;
+    padding: 20px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.football-icon {
+    
+    top: 5px;
+    right: 5px;
+    height: 24px;
+    width: 24px;
+    
+
+}
