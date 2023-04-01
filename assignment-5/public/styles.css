@@ -1,0 +1,41 @@
+header {
+    
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 36px;
+}
+   
+
+nav ul {
+    display: flex;
+    margin: 0 10px;
+}
+
+.left-side {
+    display: flex;
+    margin: 0 10px;
+}
+
+header li {
+    margin: 0 10px;
+    display: ;
+}
+nav {
+    display: flex;
+    align-items: center;
+}
+
+div.sign {
+    display: flex;
+    align-items: center;
+  
+}
+
+div.sign a {
+    margin: 0 10px;
+}
